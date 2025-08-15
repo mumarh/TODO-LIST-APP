@@ -4,11 +4,13 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 ---
 
+## Screenshot
+
 ![TODO-LIST-APP](screenshot.png)
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
@@ -19,6 +21,7 @@ A sleek and modern Todo List application built with React.js. This app allows us
 - [Screenshot](#screenshot)
 - [Author](#author)
 - [License](#license)
+- [Support](#support)
 
 ---
 
@@ -26,6 +29,7 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 [Live Demo on Netlify](https://todo-app-mumar.netlify.app)
 
+---
 
 ## Features
 
@@ -57,53 +61,54 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 |  FILE NAME     | Description                              |
 |----------------|------------------------------------------|
 | TodoList.jsx   | For all the html and javascript code     |
-| TodoList.css   | #CSS file for the style and neon effects |
+| TodoList.css   | CSS file for the style and neon effects |
 
 - All these files have been uploaded in this repository.
 
+---
 
-## ⚙ How to Run Locally
+## How to Run
 
 Anyone can run this project easily by following these steps:
 
-1. *Download or fork this repository*
-   - Click the green Code button above and select *Download ZIP, or click **Fork* to clone it
+1. *Download or fork this repository*  
+   - Click the green Code button above and select *Download ZIP* or click **Fork** to clone it.
 
-2. *Open the folder*
-   - Inside the folder, find the TodoList.jsx file
+2. *Open the folder*  
+   - Inside the folder, find the `TodoList.jsx` file.
 
-3. *Copy and paste the code*
-   - Open the TodoList.jsx file
-   - Copy the code from it
-   - Paste it into your *VS Code* or any code editor you're using
-   - Save the file and open it in your browser
+3. *Copy and paste the code*  
+   - Open the `TodoList.jsx` file.  
+   - Copy the code from it.  
+   - Paste it into your *VS Code* or any code editor you're using.  
+   - Save the file and open it in your browser.
 
-✅ Now you can see the traffic light simulation in action!
+✅ Now you can see the Todo List app in action!
 
 ---
 
-## 🙋‍♂ Author
+## Author
 
 *Muhammad Umar Hassan*  
 - 📚 BSCS Student | Frontend Learner  
-- 🔗 https://www.linkedin.com/in/m-umarh
+- 🔗 https://www.linkedin.com/in/m-umarh  
 - 📧 mumarh135@gmail.com
 
 ---
 
-## 📄 License
+## License
 
-- This project is licensed under the *MIT License*.
+- This project is licensed under the *MIT License*.  
 - You are free to use, modify, and share it.
 
 ---
 
-## ⭐ Show Your Support
+## Support
 
 If you like this project:
 
