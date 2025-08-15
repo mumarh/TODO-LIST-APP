@@ -4,7 +4,7 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 ---
 
-![TODO-LIST-APP](Screenshot.png)
+![TODO-LIST-APP](Screenshot.png.png)
 
 ---
 
