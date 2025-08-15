@@ -10,6 +10,7 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 ## 📌 Table of Contents
 
+- [Demo](#-Demo)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [How it work](#-how-it-work)
@@ -20,6 +21,10 @@ A sleek and modern Todo List application built with React.js. This app allows us
 - [License](#-license)
 
 ---
+
+## Demo
+
+[Live Demo on Netlify](https://your-netlify-app-link.netlify.app)
 
 ## Features
 
