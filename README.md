@@ -24,7 +24,8 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 ## Demo
 
-[Live Demo on Netlify](todolist-mumarh.netlify.app)
+[Live Demo on Netlify](https://todolist-mumarh.netlify.app)
+
 
 ## Features
 
