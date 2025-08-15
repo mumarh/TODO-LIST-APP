@@ -4,21 +4,21 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 ---
 
-![TODO-LIST-APP](screenshot.png)
+![TODO-LIST-APP](Screenshot.png)
 
 ---
 
 ## 📌 Table of Contents
 
-- [Demo](#-Demo)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [How it work](#-how-it-work)
-- [File Structure](#-file-structure)
-- [How to Run](#-how-to-run)
-- [Screenshot](#-screenshot)
-- [Author](#-author)
-- [License](#-license)
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How It Works](#how-it-works)
+- [File Structure](#file-structure)
+- [How to Run](#how-to-run)
+- [Screenshot](#screenshot)
+- [Author](#author)
+- [License](#license)
 
 ---
 
@@ -33,6 +33,7 @@ A sleek and modern Todo List application built with React.js. This app allows us
 - Mark tasks as completed/uncompleted
 - Delete individual tasks
 - Clear all tasks at once
+- Update the task as well
 - Persistent data saved in browser localStorage
 - Real-time date and time display
 - Responsive and visually appealing UI with hover and focus effects
@@ -52,7 +53,7 @@ A sleek and modern Todo List application built with React.js. This app allows us
 
 - Tasks are saved and retrieved from `localStorage` to maintain state between sessions.
 - The date and time update every second.
-- User interactions like adding, completing, deleting, and clearing tasks update the UI and localStorage accordingly.
+- User interactions like adding, updating, completing, deleting, and clearing tasks update the UI and localStorage accordingly.
 
 ---
 
